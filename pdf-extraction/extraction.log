@@ -1,0 +1,32 @@
+2025-05-09 05:05:41,849 - INFO - Processing PDF with 1324 pages
+2025-05-09 05:05:41,849 - INFO - Processing page 1/1324
+2025-05-09 05:05:44,538 - INFO - Processing page 51/1324
+2025-05-09 05:05:47,237 - INFO - Processing page 101/1324
+2025-05-09 05:05:49,371 - INFO - Processing page 151/1324
+2025-05-09 05:05:51,151 - INFO - Processing page 201/1324
+2025-05-09 05:05:54,232 - INFO - Processing page 251/1324
+2025-05-09 05:05:56,828 - INFO - Processing page 301/1324
+2025-05-09 05:05:58,821 - INFO - Processing page 351/1324
+2025-05-09 05:06:01,098 - INFO - Processing page 401/1324
+2025-05-09 05:06:03,187 - INFO - Processing page 451/1324
+2025-05-09 05:06:05,149 - INFO - Processing page 501/1324
+2025-05-09 05:06:07,599 - INFO - Processing page 551/1324
+2025-05-09 05:06:10,487 - INFO - Processing page 601/1324
+2025-05-09 05:06:13,413 - INFO - Processing page 651/1324
+2025-05-09 05:06:15,597 - INFO - Processing page 701/1324
+2025-05-09 05:06:17,469 - INFO - Processing page 751/1324
+2025-05-09 05:06:19,665 - INFO - Processing page 801/1324
+2025-05-09 05:06:21,933 - INFO - Processing page 851/1324
+2025-05-09 05:06:25,097 - INFO - Processing page 901/1324
+2025-05-09 05:06:28,338 - INFO - Processing page 951/1324
+2025-05-09 05:06:31,532 - INFO - Processing page 1001/1324
+2025-05-09 05:06:34,388 - INFO - Processing page 1051/1324
+2025-05-09 05:06:37,584 - INFO - Processing page 1101/1324
+2025-05-09 05:06:40,259 - INFO - Processing page 1151/1324
+2025-05-09 05:06:42,810 - INFO - Processing page 1201/1324
+2025-05-09 05:06:45,880 - INFO - Processing page 1251/1324
+2025-05-09 05:06:48,464 - INFO - Processing page 1301/1324
+2025-05-09 05:06:50,029 - INFO - Extracted 1324 questions to extracted_data\nuclear_questions.json
+2025-05-09 05:06:50,030 - INFO - Found 23 unique topics
+2025-05-09 05:06:50,148 - INFO - Created SQLite database at extracted_data\nuclear_quiz.db
+2025-05-09 05:06:50,148 - INFO - Extraction completed successfully

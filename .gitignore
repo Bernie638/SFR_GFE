@@ -1,0 +1,9 @@
+# Python venv
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Node (if you have node_modules in frontend)
+node_modules/
+dist/
