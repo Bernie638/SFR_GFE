@@ -1,12 +1,14 @@
-cd ../backend
+cd backend
 
 # Install required packages
-pip install flask flask-cors
+pip install flask flask-cors python-dotenv
 
 # Create .env file for configuration
-echo "DB_PATH=../pdf-extraction/extracted_data/nuclear_quiz.db" > .env
-echo "IMAGES_DIR=../pdf-extraction/extracted_data/images" >> .env
-echo "PORT=5000" >> .env
+cat <<EOF > .env
+DB_PATH=../pdf-extraction/extracted_data/nuclear_quiz.db
+IMAGES_DIR=../pdf-extraction/extracted_data/images
+PORT=5000
+EOF
 
 # Run the API server
 python quiz-app-backend.py
